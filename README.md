@@ -12,4 +12,4 @@ The following transports are supported: AMQP, QPID, Redis, MongoDB, SQS, ZooKeep
 
 ## License
 
-This project is released under the MPL v2.0. See [full version of the license](README.MD).
+This project is released under the MPL v2.0. See [full version of the license](LICENSE.md).
